@@ -55,6 +55,7 @@
     - Number of 'machine-readable' datasets
         - Look at the continuum of machine-readability (e.g. PDF -> Word -> Excel -> CSV -> JSON -> XML -> RDF)
         - Use [machine-readability criteria tested on data.gov.uk](https://github.com/theodi/R-projects/blob/master/csv-stats/the_status_of_csvs_on_data.gov.uk.md)
+    - Number of 'machine-readable' metadata
     - Change over time in terms of formats used
 
 ------------------
