@@ -1,4 +1,7 @@
 
+** !! moving this to google docs now, so any further changes should be made directly there !! **
+
+
 # Measures over the Aggregate
 
 - **Counts / Averages / Longitudinal**
