@@ -16,7 +16,6 @@
     - Download and checksum all the data pointed to
     - Build index of unique datasets
 
-------------------
 
 # Per-Geography Measures
 
@@ -34,9 +33,8 @@
 
 - Can we create **"family trees" or dependency graphs of catalogues** within a geography?
 
-------------------
 
-# Per-Catalogue Measures (1/4)
+# Per-Catalogue Measures
 
 - **Volume**
     - Number of catalogued datasets
@@ -46,10 +44,6 @@
 - **House-keeping**
     - Proportion of catalogued datasets with broken links (zombies)
 
-------------------
-
-# Per-Catalogue Measures (2/4)
-
 - **Formats and Machine-readability**
     - Breakdown of datasets by format
     - Number of 'machine-readable' datasets
@@ -57,10 +51,6 @@
         - Use [machine-readability criteria tested on data.gov.uk](https://github.com/theodi/R-projects/blob/master/csv-stats/the_status_of_csvs_on_data.gov.uk.md)
     - Number of 'machine-readable' metadata
     - Change over time in terms of formats used
-
-------------------
-
-# Per-Catalogue Measures (3/4)
 
 - **Licenses**
     - Proportion of datasets with licenses attached
@@ -76,10 +66,6 @@
         - Could be indicative of whether the data is published automatically or not and/or there many or few people contributing updates
     - Use of version control and archiving
 
-------------------
-
-# Per-Catalogue Measures (4/4)
-
 - **Impact**
     - PageRank of the catalogue site
     - Social media as in Twitter stats (over time)
@@ -93,9 +79,7 @@
     - Number of distinct publishers/contributors (relative to size of the catalogue in terms of datasets)
     - Number of apps developed on the data??
 
-------------------
-
-# Per-Dataset Measures (1/2)
+# Per-Dataset Measures
 
 - **Volume**
     - data volume: descriptive stats about dataset sizes
@@ -107,10 +91,6 @@
     - Frequency and distribution of vocabularies used per metadata description
     - Open Data Certificate level
 
-------------------
-
-# Per-Dataset Measures (2/2)
-
 - **Machine-readability and Usability**
     - Syntactic validation: errors and warnings from csvlint.io
     - Available extensions to 3rd party software (for working with the data); integration with other software
@@ -119,16 +99,3 @@
     - Update frequency (also wrt to data release frequency)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-	
